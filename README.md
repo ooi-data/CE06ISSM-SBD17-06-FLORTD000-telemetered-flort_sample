@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE06ISSM-SBD17-06-FLORTD000-telemetered-flort_sample
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: FL<br>
